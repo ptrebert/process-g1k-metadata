@@ -1,0 +1,3 @@
+#FamilyID	SampleID	FatherID	MotherID	Sex	Population	Superpopulation	is_duo	is_trio	is_quartet	is_multigen	Sample_Illumina	Father_Illumina	Mother_Illumina	Sex_char
+Y028	NA18913	0	NA19238	1	YRI	AFR	1	0	0	1	PRJEB36890.698	n/a	PRJEB31736.2504	m
+Y117	NA19240	NA19239	NA19238	2	YRI	AFR	0	1	0	0	PRJEB36890.698	PRJEB31736.2504	PRJEB31736.2504	f
